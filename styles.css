@@ -5,12 +5,15 @@ body{
 .player_one{
 	postion:relative;
 	background-color:white;
+	border-radius:5px;
+	padding:10px;
 }
 .player_one a{
 	text-decoration:none;
 	color:black;
 }
 .player_two{
+	border-radius:5px;
 	margin-left:60px;
 	width:350px;
 	padding:25px;
